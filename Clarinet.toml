@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/temporal-anomaly-management.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.temporal-event-nft]
+path = 'contracts/temporal-event-nft.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
