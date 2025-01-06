@@ -19,3 +19,5 @@ V
 &tests/paradox-resolution-token.test.ts,4/a/4a825d3542b9a92f27121fa612ad8ad1f467c949
 Q
 !contracts/temporal-event-nft.clar,5/e/5e9f5868118d77e110853c69575577a5a8c98d89
+P
+ tests/temporal-event-nft.test.ts,2/6/26802f0e1d34618ec8dcbc77def40fd3395b0950
