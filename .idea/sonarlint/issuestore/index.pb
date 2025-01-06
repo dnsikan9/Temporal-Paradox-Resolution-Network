@@ -11,3 +11,5 @@ Y
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 ]
 -contracts/causal-consistency-integration.clar,9/b/9b13b2b40165213e5c1e384a8b604c9fc24df460
+\
+,tests/causal-consistency-integration.test.ts,2/b/2bbe3621903d3ca789c4346e4026a860308c9c4d
